@@ -1,0 +1,21 @@
+clang calculate_e.c -o calculate_e -lpthread
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e
+./calculate_e

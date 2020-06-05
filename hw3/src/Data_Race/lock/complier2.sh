@@ -1,0 +1,21 @@
+clang lock.c -o lock -lpthread
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
+./lock
